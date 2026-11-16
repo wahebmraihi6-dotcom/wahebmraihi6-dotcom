@@ -5,9 +5,6 @@
 </div>
 
 ## Hello everyone 👋 I'm Waheb Mraihi <img src="https://media.tenor.com/2roX3uxz_68AAAAM/attack-on-titan-eren-yeager.gif" width="42" align="absmiddle" alt="Eren Yeager" />
-
-<img align="right" width="135" src="./scout-emblem.png" alt="Scout Regiment Emblem" />
-
 Hi! I'm a first-year IT student from Tunis. I love bridging the gap between clean logic and good-looking design. Currently learning **HTML, CSS, JavaScript, and C** — dedicated to pushing beyond the walls of what I know. ⚔️
 
 <br clear="right"/>
