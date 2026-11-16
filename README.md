@@ -1,32 +1,34 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:3fa9f5&height=200&section=header&text=Waheb%20Mraihi&fontSize=48&fontColor=ffffff" width="100%" />
+<p align="left">
+  <a href="https://github.com/wahebmraihi6-dotcom?tab=followers">
+    <img src="https://img.shields.io/github/followers/wahebmraihi6-dotcom?label=Followers&style=social" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/wahebmraihi6-dotcom?tab=stars">
+    <img src="https://img.shields.io/github/stars/wahebmraihi6-dotcom?label=Stars&style=social" alt="Stars" />
+  </a>
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FA9F5&center=true&vCenter=true&width=500&lines=Web+Developer;IT+Student;Building+clean+and+modern+sites" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vCenter=true&width=550&lines=First-Year+IT+Student;Web+%26+C+Developer;Building+Clean+%26+Modern+Code" alt="Typing SVG" />
 </div>
 
-## Hello everyone 👋 I'm Waheb Mraihi <img src="https://media.tenor.com/2roX3uxz_68AAAAM/attack-on-titan-eren-yeager.gif" width="42" align="absmiddle" alt="Eren Yeager" />
-Hi! I'm a first-year IT student from Tunis. I love bridging the gap between clean logic and good-looking design. Currently learning **HTML, CSS, JavaScript, and C** — dedicated to pushing beyond the walls of what I know. ⚔️
+## Hello Everyone 👋 I am Waheb Mraihi
 
-<br clear="right"/>
+<p align="center">
+  <img src="./banner1.gif" width="49%" alt="Banner Left" />
+  <img src="./banner2.gif" width="49%" alt="Banner Right" />
+</p>
+
+Hi! This is Waheb Mraihi. I am a **FIRST-YEAR IT STUDENT** from Tunis and a **WEB & SOFTWARE DEVELOPER** who loves bridging the gap between clean logic and visual design, with hands-on experience in **HTML, CSS, JavaScript, C, Python, Git, and Linux**.
 
 ## Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,linux,vscode&perline=8" alt="Skills" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,linux,vscode,ubuntu&perline=6" height="65" alt="Skills" />
 </p>
 
-## GitHub Stats
+## Github Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=wahebmraihi6-dotcom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=wahebmraihi6-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="85%" src="https://streak-stats.demolab.com/?user=wahebmraihi6-dotcom&theme=radical&hide_border=false&border=30363D&ring=E63946&fire=E63946&currStreakLabel=E63946" alt="GitHub Streak" />
 </p>
-
-## Contact
-
-- 📧 wahebmraihi6@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/waheb-mraihi-b92747440)
-
-<div align="center">
-  <img src="https://media.tenor.com/4g2r6X8M3b0AAAAM/levi-ackerman-aot.gif" width="110" alt="Levi Ackerman" />
-</div>
